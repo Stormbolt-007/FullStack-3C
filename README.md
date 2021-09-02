@@ -32,3 +32,6 @@ Instructions:<br>
 
 <h2>Practicle-6</h2>
 <p>Create a Card Layout using CSS layout properties.</p>
+
+<h2>Practicle-7</h2>
+<p>Create a Web Page Layout using div tags.</p>
