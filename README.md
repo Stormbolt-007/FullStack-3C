@@ -35,3 +35,6 @@ Instructions:<br>
 
 <h2>Practicle-7</h2>
 <p>Create a Web Page Layout using div tags.</p>
+
+<h2>Practicle-8</h2>
+<p>Create a Web Page having Fixed Navigation Bar with the given content.</p>
