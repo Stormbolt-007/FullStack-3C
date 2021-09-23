@@ -38,3 +38,19 @@ Instructions:<br>
 
 <h2>Practicle-8</h2>
 <p>Create a Web Page having Fixed Navigation Bar with the given content.</p>
+
+<h2>Practicle-9</h2>
+<p>Create a Responsive Web Layout with Responsive Navigation Bar.</p>
+
+<h2>Practicle-10</h2>
+<p>Create a Responsive Side-Bar Navigation Menu. <br>
+
+Instructions:<br>
+- Students also have to make it responsive for mobile devices or tablet using media query.</p>
+
+<h2>Practicle-11</h2>
+<p>Create a Responsive Footer Template.<br>
+
+Instructions:<br>
+- Students can only use the Semantic Tags not div.<br>
+- Also Update index.html for practical-11 also</p>
