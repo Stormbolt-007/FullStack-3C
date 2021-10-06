@@ -1,0 +1,81 @@
+*{
+    margin: 0;padding: 0;box-sizing: border-box;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight: 700;
+}
+
+.money td{
+    color: rgb(0, 180, 0);
+    font-size: 1.5rem;
+}
+
+tr{
+    /* background-color: hotpink; */
+}
+td{
+    /* background-color: hotpink; */
+}
+
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: rgb(189, 189, 189);
+}
+
+table{
+    width: 50%;
+    background-color: whitesmoke;
+    height: 80vh;
+    padding: 10px 10px;
+}
+
+td{
+    text-align: center;
+}
+th{
+    font-size: 2rem;
+}
+
+.fa-check{
+    color: rgb(2, 173, 2);
+}
+
+.fa-times{
+    color: red;
+}
+
+.fas{
+    font-size: 1.5rem;
+}
+
+.c-1{
+    background-image: linear-gradient(to right,rgb(140, 252, 140),rgb(172, 252, 172));
+}
+.c-2{
+    background-image: linear-gradient(to right,rgb(118, 211, 118),rgb(187, 248, 187));
+}
+.c-3{
+    background-image: linear-gradient(to right,rgb(72, 175, 161),rgb(136, 202, 195));
+}
+.c-4{
+    background-image: linear-gradient(to right,rgb(49, 169, 216),rgb(135, 195, 219));
+}
+
+a{
+    padding: 1rem 3rem;
+    color: #fff;
+    background-color: rgb(109, 34, 109);
+    border-radius: 10px;
+    text-decoration: none;
+    transition: .5s all;
+}
+
+a:hover{
+    background-color: rgb(58, 58, 161);
+}
+caption{
+    margin-top: 50px;
+    background-color: whitesmoke;
+    font-size: 40px;
+}
